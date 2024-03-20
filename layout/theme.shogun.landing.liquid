@@ -29,6 +29,12 @@ This file can be re-written at any time.
       {%- unless page_title contains shop.name %} &ndash; {{ shop.name }}{% endunless -%}
     </title>
 
+<!-- Avada Boost Sales Script -->
+{% include 'avada-boost-sales' %}
+<!-- /Avada Boost Sales Script -->
+
+
+
     {% if page_description %}
       <meta name="description" content="{{ page_description | escape }}">
     {% endif %}
@@ -289,9 +295,10 @@ This file can be re-written at any time.
     </script>
   {% capture boostersnippet %}{% include "booster-apps-common" %}{% endcapture %}{% unless boostersnippet contains "Liquid error" %}{{ boostersnippet }}{% endunless %}
 
-{% include 'pagefly-app-header' %}
+
   {% render 'shogun-head' %}
 
+{% include 'pagefly-app-header' %}
 </head>
 
 

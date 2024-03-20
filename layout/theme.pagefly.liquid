@@ -26,6 +26,12 @@ If you plan to remove PageFly, please see the guide in our help center first: ht
       {%- unless page_title contains shop.name %} &ndash; {{ shop.name }}{% endunless -%}
     </title>
 
+<!-- Avada Boost Sales Script -->
+{% include 'avada-boost-sales' %}
+<!-- /Avada Boost Sales Script -->
+
+
+
     {% if page_description %}
       <meta name="description" content="{{ page_description | escape }}">
     {% endif %}
@@ -288,6 +294,7 @@ If you plan to remove PageFly, please see the guide in our help center first: ht
 
 
   {% render 'shogun-head' %}
+
 
 {% include 'pagefly-app-header' %}</head>
 
