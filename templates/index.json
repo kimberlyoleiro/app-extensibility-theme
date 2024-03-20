@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Browse our latest products",
+            "heading": "TESTING FIRST CHANGE IN EDITOR WILL THIS SHOW UP IN GITHUB?",
             "heading_size": "h2"
           }
         }
@@ -101,6 +101,7 @@
         "enable_desktop_slider": true,
         "color_scheme": "background-1",
         "image_ratio": "square",
+        "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": true,
         "show_rating": false,
