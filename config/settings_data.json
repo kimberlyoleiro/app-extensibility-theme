@@ -132,6 +132,17 @@
     "content_for_index": [
 
     ],
+    "blocks": {
+      "14818028230436078177": {
+        "type": "shopify:\/\/apps\/langify\/blocks\/langify\/b50c2edb-8c63-4e36-9e7c-a7fdd62ddb8f",
+        "disabled": false,
+        "settings": {
+          "theme_id": "158918443064",
+          "block_flags_css": false,
+          "rtl_css": "body {\n  direction: rtl;\n}"
+        }
+      }
+    },
     "color_schemes": {
       "scheme-1": {
         "settings": {
@@ -157,11 +168,11 @@
       },
       "scheme-3": {
         "settings": {
-          "background": "#CCC1FF",
+          "background": "#ccc1ff",
           "background_gradient": "",
           "text": "#121212",
           "button": "#000000",
-          "button_label": "#CCC1FF",
+          "button_label": "#ccc1ff",
           "secondary_button_label": "#121212",
           "shadow": "#121212"
         }
