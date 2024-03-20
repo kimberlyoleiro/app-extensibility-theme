@@ -88,19 +88,6 @@
     },
     "1710952820c6d0a63d": {
       "type": "apps",
-      "blocks": {
-        "avada_trust_badges_sale_pop_up_app_badge_v2_block_z8HVjP": {
-          "type": "shopify:\/\/apps\/avada-trust-badges-sale-pop-up\/blocks\/app-badge-v2-block\/45454b7f-f6a7-4852-b770-8e0c3992a226",
-          "disabled": true,
-          "settings": {
-            "badge_id": "AVADA-28565373",
-            "avada_badge_size": "medium"
-          }
-        }
-      },
-      "block_order": [
-        "avada_trust_badges_sale_pop_up_app_badge_v2_block_z8HVjP"
-      ],
       "settings": {
         "include_margins": true
       }
