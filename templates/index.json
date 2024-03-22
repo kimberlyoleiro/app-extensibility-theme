@@ -161,7 +161,7 @@
           "type": "shopify:\/\/apps\/loox-reviews\/blocks\/loox-trust-badge\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
             "layout": "horizontal",
-            "alignment": "left",
+            "alignment": "center",
             "scheme-type": "default",
             "review-title": "reviews",
             "rating-icon": true,
@@ -172,7 +172,7 @@
             "show-border": true,
             "border-radius": 8,
             "font-size": 20,
-            "background-color": "",
+            "background-color": "#76c0a0",
             "secondary-background-color": "",
             "text-color": "",
             "rating-icon-color": "",
