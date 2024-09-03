@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
     "logo": "shopify:\/\/shop_images\/142055624-aec45323-8bee-4979-b9cd-15fda41bc371.png",
@@ -133,27 +142,6 @@
 
     ],
     "blocks": {
-      "14818028230436078177": {
-        "type": "shopify:\/\/apps\/langify\/blocks\/langify\/b50c2edb-8c63-4e36-9e7c-a7fdd62ddb8f",
-        "disabled": false,
-        "settings": {
-          "theme_id": "158918443064",
-          "block_flags_css": false,
-          "rtl_css": "body {\n  direction: rtl;\n}"
-        }
-      },
-      "pagefly-page-builder": {
-        "type": "shopify:\/\/apps\/pagefly-page-builder\/blocks\/app-embed\/83e179f7-59a0-4589-8c66-c0dddf959200",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "3782724262942762477": {
-        "type": "shopify:\/\/apps\/folio-store-locator\/blocks\/app-embed-block\/4dcbbaad-0f71-471a-a9f6-f2e68e17e4e0",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "15683396631634586217": {
         "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
         "disabled": true,
@@ -168,21 +156,43 @@
           "greeting_message": ""
         }
       },
-      "14060646107696862457": {
-        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "11532412952436166569": {
         "type": "shopify:\/\/apps\/loox-reviews\/blocks\/loox-inject\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-        "disabled": false,
+        "disabled": true,
         "settings": {
         }
       },
       "yoast-seo-metatags": {
-        "type": "shopify:\/\/apps\/yoast-seo-seo-for-everyone\/blocks\/metatags\/7c777011-bc88-4743-a24e-64336e1e5b46",
-        "disabled": false,
+        "type": "shopify:\/\/apps\/yoast-seo\/blocks\/metatags\/7c777011-bc88-4743-a24e-64336e1e5b46",
+        "disabled": true,
+        "settings": {
+        }
+      },
+      "14818028230436078177": {
+        "type": "shopify:\/\/apps\/langify\/blocks\/langify\/b50c2edb-8c63-4e36-9e7c-a7fdd62ddb8f",
+        "disabled": true,
+        "settings": {
+          "theme_id": "158918443064",
+          "block_flags_css": false,
+          "block_lib_css": false,
+          "rtl_css": "body {\n  direction: rtl;\n}"
+        }
+      },
+      "14060646107696862457": {
+        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "disabled": true,
+        "settings": {
+        }
+      },
+      "3782724262942762477": {
+        "type": "shopify:\/\/apps\/folio-store-locator\/blocks\/app-embed-block\/4dcbbaad-0f71-471a-a9f6-f2e68e17e4e0",
+        "disabled": true,
+        "settings": {
+        }
+      },
+      "pagefly-page-builder": {
+        "type": "shopify:\/\/apps\/pagefly-page-builder\/blocks\/app-embed\/83e179f7-59a0-4589-8c66-c0dddf959200",
+        "disabled": true,
         "settings": {
         }
       }
